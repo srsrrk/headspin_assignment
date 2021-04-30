@@ -1,5 +1,5 @@
-1.filename amstrong.py
-aims at printing amstrong numbers up to the value entered 
+1.filename armstrong.py
+aims at printing armstrong numbers up to the value entered 
 for example when you run the program 
 OUTPUT: Enter a number 1000 ENTER 
 1
