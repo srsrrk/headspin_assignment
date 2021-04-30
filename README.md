@@ -9,6 +9,7 @@ for example when you run the program OUTPUT: Enter a number 1000 ENTER
 
 2.filename reverse string.py
 reverses the entered string without reversing the individual words the given string must be separated by fullstop
+for example when you run the program OUTPUT: enter a string with dot as separator HELLO.WORLD ENTER WORLD.HELLO
 
 for example when you run the program OUTPUT: ENTER A STRING
 3.filename series.py
