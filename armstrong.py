@@ -1,4 +1,4 @@
-#amstrong
+#armstrong
 n = int(input("Enter a number: "))
 for num in range(1,n):
     sum = 0  
